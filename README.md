@@ -16,3 +16,5 @@ This is a simple Tic-Tac-Toe game implemented using C++ and the SDL library.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/tictactoe.git
+2. Install SDL2 and environment variables following this link: https://www.youtube.com/watch?v=13AEnd8XB70&t=665s
+3. Run the game
